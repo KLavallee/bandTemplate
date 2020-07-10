@@ -61,9 +61,11 @@ hr {
 }
 
 #merch {
-    text-align: left;
-    
-    font-size: 45px;
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  float: left;
     
 }
 
